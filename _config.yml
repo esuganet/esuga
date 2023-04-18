@@ -19,7 +19,7 @@ linkedin_username: "linkedinuser"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 #theme: "midnight"
-remote_theme: "Midnight"
+remote_theme: "midnight"
 rss: rss
 
 kramdown:
